@@ -79,9 +79,7 @@
 > [Photography Booking Website 🚀](https://photography-booking.netlify.app/)  
 > Built with **React + Node.js + MongoDB**, designed with **Tailwind CSS**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500" />
-</p>
+
 
 ---
 
